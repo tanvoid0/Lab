@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554026216 source:c:\users\administrator\desktop\dirtboard\dirtboard\main.c
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+

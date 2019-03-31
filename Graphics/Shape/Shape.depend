@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554026965 source:c:\users\administrator\desktop\dirtboard\shape\main.c
+	<GL/gl.h>
+	<GL/glut.h>
+
